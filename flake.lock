@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "0_0_10",
-        "lastModified": 1667310797,
-        "narHash": "sha256-pY5xujgPB8E75zD1lCZZ3SZBY6+a7szu14eAs8P6RsM=",
+        "lastModified": 1667322255,
+        "narHash": "sha256-tsgfyxhGIjtC947gYKCNVpJXZOSBaMdj/vkc890Ytco=",
         "owner": "nim-nix-pkgs",
         "repo": "emath",
-        "rev": "6e277d77a13596c264643753bc6dc42130ff9519",
+        "rev": "141e989838c2c07b48a1af871878d2bba6a47fce",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "0_0_6",
-        "lastModified": 1667310797,
-        "narHash": "sha256-pY5xujgPB8E75zD1lCZZ3SZBY6+a7szu14eAs8P6RsM=",
+        "lastModified": 1667322255,
+        "narHash": "sha256-tsgfyxhGIjtC947gYKCNVpJXZOSBaMdj/vkc890Ytco=",
         "owner": "nim-nix-pkgs",
         "repo": "emath",
-        "rev": "6e277d77a13596c264643753bc6dc42130ff9519",
+        "rev": "141e989838c2c07b48a1af871878d2bba6a47fce",
         "type": "github"
       },
       "original": {
@@ -66,11 +66,11 @@
       },
       "locked": {
         "dir": "0_0_8",
-        "lastModified": 1667310797,
-        "narHash": "sha256-pY5xujgPB8E75zD1lCZZ3SZBY6+a7szu14eAs8P6RsM=",
+        "lastModified": 1667322255,
+        "narHash": "sha256-tsgfyxhGIjtC947gYKCNVpJXZOSBaMdj/vkc890Ytco=",
         "owner": "nim-nix-pkgs",
         "repo": "emath",
-        "rev": "6e277d77a13596c264643753bc6dc42130ff9519",
+        "rev": "141e989838c2c07b48a1af871878d2bba6a47fce",
         "type": "github"
       },
       "original": {
@@ -93,11 +93,11 @@
       },
       "locked": {
         "dir": "0_1_0",
-        "lastModified": 1667310797,
-        "narHash": "sha256-pY5xujgPB8E75zD1lCZZ3SZBY6+a7szu14eAs8P6RsM=",
+        "lastModified": 1667322255,
+        "narHash": "sha256-tsgfyxhGIjtC947gYKCNVpJXZOSBaMdj/vkc890Ytco=",
         "owner": "nim-nix-pkgs",
         "repo": "emath",
-        "rev": "6e277d77a13596c264643753bc6dc42130ff9519",
+        "rev": "141e989838c2c07b48a1af871878d2bba6a47fce",
         "type": "github"
       },
       "original": {
@@ -120,11 +120,11 @@
       },
       "locked": {
         "dir": "0_1_1",
-        "lastModified": 1667310797,
-        "narHash": "sha256-pY5xujgPB8E75zD1lCZZ3SZBY6+a7szu14eAs8P6RsM=",
+        "lastModified": 1667322255,
+        "narHash": "sha256-tsgfyxhGIjtC947gYKCNVpJXZOSBaMdj/vkc890Ytco=",
         "owner": "nim-nix-pkgs",
         "repo": "emath",
-        "rev": "6e277d77a13596c264643753bc6dc42130ff9519",
+        "rev": "141e989838c2c07b48a1af871878d2bba6a47fce",
         "type": "github"
       },
       "original": {
@@ -147,11 +147,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1667310797,
-        "narHash": "sha256-pY5xujgPB8E75zD1lCZZ3SZBY6+a7szu14eAs8P6RsM=",
+        "lastModified": 1667322255,
+        "narHash": "sha256-tsgfyxhGIjtC947gYKCNVpJXZOSBaMdj/vkc890Ytco=",
         "owner": "nim-nix-pkgs",
         "repo": "emath",
-        "rev": "6e277d77a13596c264643753bc6dc42130ff9519",
+        "rev": "141e989838c2c07b48a1af871878d2bba6a47fce",
         "type": "github"
       },
       "original": {
@@ -185,11 +185,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
@@ -297,11 +297,11 @@
     "src-emath-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1667321204,
-        "narHash": "sha256-cLFm9LVQGgGdaN6E0s+8Uq2dqh5bs9qMmIVvTSUlFVA=",
+        "lastModified": 1667319826,
+        "narHash": "sha256-73+R78IehAgICTu6W82Y4C3kyZW9FSn/6jn1MBhikF8=",
         "owner": "hamidb80",
         "repo": "emath",
-        "rev": "d94886274df9b44eda56661d335deafcf65a5c17",
+        "rev": "2587003ebfd00862244a10e00c5d202a355ad731",
         "type": "github"
       },
       "original": {

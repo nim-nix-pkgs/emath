@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667085676,
-        "narHash": "sha256-jPHYYoSdrV3ypWG4oi9SUeI2MU6dLjxM88+9io5Rrx0=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "e6e6bad81b7e11f37d893ef39712ce8918ae2338",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
@@ -45,11 +45,11 @@
     "src-emath-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1667319826,
-        "narHash": "sha256-73+R78IehAgICTu6W82Y4C3kyZW9FSn/6jn1MBhikF8=",
+        "lastModified": 1667321204,
+        "narHash": "sha256-cLFm9LVQGgGdaN6E0s+8Uq2dqh5bs9qMmIVvTSUlFVA=",
         "owner": "hamidb80",
         "repo": "emath",
-        "rev": "2587003ebfd00862244a10e00c5d202a355ad731",
+        "rev": "d94886274df9b44eda56661d335deafcf65a5c17",
         "type": "github"
       },
       "original": {
